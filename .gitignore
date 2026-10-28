@@ -1,0 +1,9 @@
+# Local research and review material. Do not force-add this directory.
+/docs/
+/.preview/
+/.vscode/
+__pycache__/
+*.pyc
+Thumbs.db
+Desktop.ini
+.DS_Store
