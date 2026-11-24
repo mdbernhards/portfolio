@@ -2,7 +2,7 @@
 
 I’m a software developer from Latvia, based in Enschede. I study Applied Computer Science at Saxion, currently in year 4 (expected graduation: 2027) and have around three years of C#/.NET experience at Accenture Baltics.
 
-I make games with Godot in my free time and used Unity during my game design minor. I’m looking for a graduation internship.
+I make games with Godot in my free time and used Unity during my game design minor.
 
 **[Portfolio website](https://mdbernhards.github.io/portfolio/)**
 
@@ -14,7 +14,7 @@ I make games with Godot in my free time and used Unity during my game design min
 
 ![Sector 7 city layout in the Unity editor](assets/sector-7/map-overview.jpg)
 
-A four person university investigation game about misinformation. I built the DataRig and much of the evidence system, and designed and assembled the level. Teammates contributed the final UI, photography and scoring; environment models are imported. Only day one is playable in the prototype.
+A four person university investigation game about misinformation. I built the DataRig "device" mechanic and much of the evidence system, and designed and assembled the level. Teammates contributed the final UI, photography and scoring; environment models are imported. Only day one is playable in the prototype.
 
 **Unity 6 · C# · Yarn Spinner**  
 [Source showcase](https://github.com/mdbernhards/sector-7) · [Watch gameplay](https://youtu.be/kGgeZPuvfn4)
